@@ -64,7 +64,7 @@ If you've ever wanted to contribute to open source, and a great cause, now is yo
 
 See the [contributing docs](https://allcontributors.org/docs/en/project/contribute) for more information
 
-## Contributors 🎉
+## Contributors
 
 Thanks go to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
